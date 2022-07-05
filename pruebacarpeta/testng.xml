@@ -1,0 +1,15 @@
+<suite   name="tests">
+
+    <test name ="fabrica tests">
+        <classes>
+            <class name = "tests.prueba_netflix"></class>
+        </classes>
+    </test>
+    <test name ="fabrica2 tests">
+        <classes>
+            <class name = "tests.prueba_netflix"></class>
+        </classes>
+    </test>
+
+
+</suite>
