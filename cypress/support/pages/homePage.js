@@ -6,3 +6,4 @@ export class HomePage {
         cy.contains(this.onlineshop).click();
     };
 };
+//
