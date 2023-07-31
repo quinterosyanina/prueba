@@ -1,0 +1,13 @@
+{
+"datosLogin":{
+    "usuario":"pushingit",
+    "contraseña":"123456!"
+},
+
+"productos":{
+            "nombreProducto1": "Red Cap",
+            "precioProducto1": 10,
+            "nombreProducto2": "Black Jacket",
+            "precioProducto2": 25
+}
+}
